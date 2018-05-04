@@ -1,1 +1,1 @@
-mastermind games which helps in improving vocabulary as well 
+mastermind game which helps in improving vocabulary
